@@ -1,0 +1,13 @@
+Create an API, withb file naming db.json
+
+To run :  npx json-server db.json
+
+Install vue-axios and axios
+
+POSTMAN :-
+
+GET :Check the working of API by get request on the address http://localhost3000/(nameofapi)
+
+POST :Post the Api of same address by going to body>raw>json
+
+PUT :Use Put to edit the already existing content by simply typing /id no in the url

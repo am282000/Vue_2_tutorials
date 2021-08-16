@@ -1,0 +1,3 @@
+npm i vue-router
+
+Must add links in app.vue so that it can be accessable everywhere

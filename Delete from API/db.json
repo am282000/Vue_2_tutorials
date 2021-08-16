@@ -1,0 +1,76 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Go to Gym"
+    },
+    {
+      "id": 1,
+      "name": "Go to Company"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ashish Madaan",
+      "address": "Noida"
+    },
+    {
+      "id": 3,
+      "name": "Euuuh",
+      "address": "Pocket"
+    },
+    {
+      "id": 4,
+      "name": "Madaan",
+      "address": "Poc"
+    },
+    {
+      "name": "Mewwww",
+      "address": "Haveli",
+      "id": 5
+    },
+    {
+      "name": "Heyaaa",
+      "address": "I am new here",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "title": "I am Cutet",
+      "author": "Double Mare",
+      "id": 3
+    },
+    {
+      "title": "Learn Vue",
+      "author": "Madaan Sahaab",
+      "id": 5
+    },
+    {
+      "title": "Are you Crazy ?",
+      "author": "Gulzaar",
+      "id": 6
+    },
+    {
+      "title": "Welcome to Noida",
+      "author": "Nitank",
+      "id": 7
+    },
+    {
+      "title": "Keep learning",
+      "author": "Best Regards",
+      "id": 8
+    },
+    {
+      "title": "Good Bye ",
+      "author": "Madaan Sahaab",
+      "id": 9
+    },
+    {
+      "title": "Keep moving",
+      "author": "You are legend",
+      "id": 10
+    }
+  ]
+}
