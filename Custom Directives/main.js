@@ -1,7 +1,7 @@
 import Vue from 'vue';
 import App from './App.vue';
 
-Vue.directive('font-size ', {
+Vue.directive('font-size', {
 	// bind(el, binding, vnode) {  //General representation
 	bind(el, binding) {
 		if (binding.value == 'small') {
